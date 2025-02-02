@@ -4,7 +4,7 @@ This zip contains php code for simple dental clinic website for student projects
 Install XAMPP on your system. 
 
 # Steps to Run 
-1.Start XAMPP
+# 1.Start XAMPP
  - Open XAMPP Control Panel.
  - Start the Apache and MySQL modules. 
 # 2.Place Your PHP Files
@@ -16,7 +16,7 @@ Install XAMPP on your system.
 
 # Troubleshooting
 
-If Apache fails to start, check for port conflicts (ensure port 80 is available).
-For MySQL issues, verify the my.ini file in C:\xampp\mysql\bin. Notes
-Default web root directory: htdocs.
-Default MySQL username: root (no password by default)
+- If Apache fails to start, check for port conflicts (ensure port 80 is available).
+- For MySQL issues, verify the my.ini file in C:\xampp\mysql\bin. Notes
+- Default web root directory: htdocs.
+- Default MySQL username: root (no password by default)
