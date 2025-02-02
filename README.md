@@ -1,4 +1,6 @@
 # DentalClinic
+The Dental Clinic Management System is a software solution designed to streamline and automate the daily operations of a dental clinic. It allows staff to efficiently manage patient records, appointments, treatments, billing, and inventory. The system aims to reduce administrative workload, improve patient care, and ensure smooth management of clinic resources.
+
 This zip contains php code for simple dental clinic website for student projects I have used xampp for handling database. Database name - Dbclinicmain Table are listed in SRS. Extract Test1 which contains all the code, extract it in Htdocs if you're using netbeans.
 # Prerequisites
 Install XAMPP on your system. 
